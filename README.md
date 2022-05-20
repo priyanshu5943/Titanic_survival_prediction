@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @priyanshu5943
-- 👀 I’m interested in artificial intellegence
+- 👀 I’m interested in artificial intellegence and data sciencede
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on machine learning project
 - 📫 How to reach me just by my email priyanshu123594@gmail.com
